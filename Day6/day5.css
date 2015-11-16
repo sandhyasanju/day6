@@ -1,0 +1,31 @@
+body {
+  background-color: #C0C0C0;
+}
+#div {
+  border: 2px;
+  color: #6699FF;
+  height: 100%;
+  margin: 0 auto;
+  width: 100%;
+}
+#table1 {
+  width: 50%;
+}
+#th1 {
+  cursor: pointer;
+}
+#th2 {
+  cursor: pointer;
+}
+#th3 {
+  cursor: pointer;
+}
+#th4 {
+  cursor: pointer;
+}
+#text {
+  display: inherit;
+}
+.text {
+  display: inline;
+}
